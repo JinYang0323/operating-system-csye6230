@@ -1,0 +1,11 @@
+/Users/jin/Desktop/csye6230-os/myApp/bin/Debug/netcoreapp2.2/myApp.deps.json
+/Users/jin/Desktop/csye6230-os/myApp/bin/Debug/netcoreapp2.2/myApp.runtimeconfig.json
+/Users/jin/Desktop/csye6230-os/myApp/bin/Debug/netcoreapp2.2/myApp.runtimeconfig.dev.json
+/Users/jin/Desktop/csye6230-os/myApp/bin/Debug/netcoreapp2.2/myApp.dll
+/Users/jin/Desktop/csye6230-os/myApp/bin/Debug/netcoreapp2.2/myApp.pdb
+/Users/jin/Desktop/csye6230-os/myApp/obj/Debug/netcoreapp2.2/myApp.csprojAssemblyReference.cache
+/Users/jin/Desktop/csye6230-os/myApp/obj/Debug/netcoreapp2.2/myApp.csproj.CoreCompileInputs.cache
+/Users/jin/Desktop/csye6230-os/myApp/obj/Debug/netcoreapp2.2/myApp.AssemblyInfoInputs.cache
+/Users/jin/Desktop/csye6230-os/myApp/obj/Debug/netcoreapp2.2/myApp.AssemblyInfo.cs
+/Users/jin/Desktop/csye6230-os/myApp/obj/Debug/netcoreapp2.2/myApp.dll
+/Users/jin/Desktop/csye6230-os/myApp/obj/Debug/netcoreapp2.2/myApp.pdb
