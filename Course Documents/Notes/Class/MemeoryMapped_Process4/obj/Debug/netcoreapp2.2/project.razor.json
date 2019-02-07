@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "/Users/jin/Desktop/csye6230-OS/Course Documents/Notes/Class/MemeoryMapped_Process4/MemeoryMapped_Process4.csproj",
+  "TargetFramework": "netcoreapp2.2",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
