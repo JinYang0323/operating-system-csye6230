@@ -35,7 +35,7 @@ namespace SpeedUp_Example
             Thread[] threads = new Thread[Environment.ProcessorCount];
             for (int i = 0; i < Environment.ProcessorCount; i++)
             {
-                threads[i] = new Thread(() => SumValues(Environment.ProcessorCount));
+                threads[i] = new Thread(() => SumValues(i));
                 threads[i].Start();
             }
             for (int i = 0; i < Environment.ProcessorCount; i++)

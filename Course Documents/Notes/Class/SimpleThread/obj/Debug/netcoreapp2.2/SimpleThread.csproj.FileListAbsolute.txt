@@ -9,3 +9,14 @@
 /Users/yiweichen/Northeastern/Courses/CSYE 6230 Operating System/Class/SimpleThread/bin/Debug/netcoreapp2.2/SimpleThread.pdb
 /Users/yiweichen/Northeastern/Courses/CSYE 6230 Operating System/Class/SimpleThread/obj/Debug/netcoreapp2.2/SimpleThread.dll
 /Users/yiweichen/Northeastern/Courses/CSYE 6230 Operating System/Class/SimpleThread/obj/Debug/netcoreapp2.2/SimpleThread.pdb
+/Users/jin/Desktop/csye6230-OS/Course Documents/Notes/Class/SimpleThread/bin/Debug/netcoreapp2.2/SimpleThread.deps.json
+/Users/jin/Desktop/csye6230-OS/Course Documents/Notes/Class/SimpleThread/bin/Debug/netcoreapp2.2/SimpleThread.runtimeconfig.json
+/Users/jin/Desktop/csye6230-OS/Course Documents/Notes/Class/SimpleThread/bin/Debug/netcoreapp2.2/SimpleThread.runtimeconfig.dev.json
+/Users/jin/Desktop/csye6230-OS/Course Documents/Notes/Class/SimpleThread/bin/Debug/netcoreapp2.2/SimpleThread.dll
+/Users/jin/Desktop/csye6230-OS/Course Documents/Notes/Class/SimpleThread/bin/Debug/netcoreapp2.2/SimpleThread.pdb
+/Users/jin/Desktop/csye6230-OS/Course Documents/Notes/Class/SimpleThread/obj/Debug/netcoreapp2.2/SimpleThread.csprojAssemblyReference.cache
+/Users/jin/Desktop/csye6230-OS/Course Documents/Notes/Class/SimpleThread/obj/Debug/netcoreapp2.2/SimpleThread.csproj.CoreCompileInputs.cache
+/Users/jin/Desktop/csye6230-OS/Course Documents/Notes/Class/SimpleThread/obj/Debug/netcoreapp2.2/SimpleThread.AssemblyInfoInputs.cache
+/Users/jin/Desktop/csye6230-OS/Course Documents/Notes/Class/SimpleThread/obj/Debug/netcoreapp2.2/SimpleThread.AssemblyInfo.cs
+/Users/jin/Desktop/csye6230-OS/Course Documents/Notes/Class/SimpleThread/obj/Debug/netcoreapp2.2/SimpleThread.dll
+/Users/jin/Desktop/csye6230-OS/Course Documents/Notes/Class/SimpleThread/obj/Debug/netcoreapp2.2/SimpleThread.pdb

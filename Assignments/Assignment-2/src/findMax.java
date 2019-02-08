@@ -1,4 +1,4 @@
-import javax.annotation.processing.Processor;
+/*1. Given a very large array of integers, find the maximum value within the array using multithreading.*/
 import java.util.Random;
 
 public class findMax {
@@ -11,19 +11,30 @@ public class findMax {
         System.out.println("processorCount: " + processorCount);
         portionSize = values.length / processorCount;
         generateValues();
+        int max = Integer.MIN_VALUE;
+        long startTime = System.nanoTime();
+        for(int i = 0; i < values.length; i++){
+            max = Math.max(max, values[i]);
+        }
+        System.out.println("max: " + max);
+        System.out.println("time for normal: " + (System.nanoTime() - startTime));
+
+        startTime = System.nanoTime();
         Thread[] threads = new Thread[processorCount];
         for(int i = 0; i < processorCount; i++) {
-            threads[i] = new Thread( () => getMax(processorCount));
+            final int index = i;
+            threads[i] = new Thread( () -> getMax(index));
             threads[i].start();
         }
         for(int i = 0; i < processorCount; i++){
             threads[i].join();
         }
-        int max = Integer.MIN_VALUE;
+        max = Integer.MIN_VALUE;
         for(int i = 0; i < partialResults.length; i++) {
             max = Math.max(max, partialResults[i]);
         }
         System.out.println("max: " + max);
+        System.out.println("time for multithreading: " + (System.nanoTime() - startTime));
     }
 
     private static void generateValues() {
