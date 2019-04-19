@@ -1,0 +1,10 @@
+/Users/Ashish/Documents/NEU/OS_Spring2019/ThreadSyncProblem/bin/Debug/netcoreapp2.0/ThreadSyncProblem.deps.json
+/Users/Ashish/Documents/NEU/OS_Spring2019/ThreadSyncProblem/bin/Debug/netcoreapp2.0/ThreadSyncProblem.runtimeconfig.json
+/Users/Ashish/Documents/NEU/OS_Spring2019/ThreadSyncProblem/bin/Debug/netcoreapp2.0/ThreadSyncProblem.runtimeconfig.dev.json
+/Users/Ashish/Documents/NEU/OS_Spring2019/ThreadSyncProblem/bin/Debug/netcoreapp2.0/ThreadSyncProblem.dll
+/Users/Ashish/Documents/NEU/OS_Spring2019/ThreadSyncProblem/bin/Debug/netcoreapp2.0/ThreadSyncProblem.pdb
+/Users/Ashish/Documents/NEU/OS_Spring2019/ThreadSyncProblem/obj/Debug/netcoreapp2.0/ThreadSyncProblem.csproj.CoreCompileInputs.cache
+/Users/Ashish/Documents/NEU/OS_Spring2019/ThreadSyncProblem/obj/Debug/netcoreapp2.0/ThreadSyncProblem.AssemblyInfoInputs.cache
+/Users/Ashish/Documents/NEU/OS_Spring2019/ThreadSyncProblem/obj/Debug/netcoreapp2.0/ThreadSyncProblem.AssemblyInfo.cs
+/Users/Ashish/Documents/NEU/OS_Spring2019/ThreadSyncProblem/obj/Debug/netcoreapp2.0/ThreadSyncProblem.dll
+/Users/Ashish/Documents/NEU/OS_Spring2019/ThreadSyncProblem/obj/Debug/netcoreapp2.0/ThreadSyncProblem.pdb

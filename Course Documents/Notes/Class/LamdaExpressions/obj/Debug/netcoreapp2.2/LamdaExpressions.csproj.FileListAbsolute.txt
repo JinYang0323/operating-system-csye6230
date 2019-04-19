@@ -9,3 +9,14 @@
 /Users/yiweichen/Northeastern/Courses/CSYE 6230 Operating System/Class/LamdaExpressions/bin/Debug/netcoreapp2.2/LamdaExpressions.pdb
 /Users/yiweichen/Northeastern/Courses/CSYE 6230 Operating System/Class/LamdaExpressions/obj/Debug/netcoreapp2.2/LamdaExpressions.dll
 /Users/yiweichen/Northeastern/Courses/CSYE 6230 Operating System/Class/LamdaExpressions/obj/Debug/netcoreapp2.2/LamdaExpressions.pdb
+/Users/jin/Desktop/csye6230-OS/Course Documents/Notes/Class/LamdaExpressions/bin/Debug/netcoreapp2.2/LamdaExpressions.deps.json
+/Users/jin/Desktop/csye6230-OS/Course Documents/Notes/Class/LamdaExpressions/bin/Debug/netcoreapp2.2/LamdaExpressions.runtimeconfig.json
+/Users/jin/Desktop/csye6230-OS/Course Documents/Notes/Class/LamdaExpressions/bin/Debug/netcoreapp2.2/LamdaExpressions.runtimeconfig.dev.json
+/Users/jin/Desktop/csye6230-OS/Course Documents/Notes/Class/LamdaExpressions/bin/Debug/netcoreapp2.2/LamdaExpressions.dll
+/Users/jin/Desktop/csye6230-OS/Course Documents/Notes/Class/LamdaExpressions/bin/Debug/netcoreapp2.2/LamdaExpressions.pdb
+/Users/jin/Desktop/csye6230-OS/Course Documents/Notes/Class/LamdaExpressions/obj/Debug/netcoreapp2.2/LamdaExpressions.csprojAssemblyReference.cache
+/Users/jin/Desktop/csye6230-OS/Course Documents/Notes/Class/LamdaExpressions/obj/Debug/netcoreapp2.2/LamdaExpressions.csproj.CoreCompileInputs.cache
+/Users/jin/Desktop/csye6230-OS/Course Documents/Notes/Class/LamdaExpressions/obj/Debug/netcoreapp2.2/LamdaExpressions.AssemblyInfoInputs.cache
+/Users/jin/Desktop/csye6230-OS/Course Documents/Notes/Class/LamdaExpressions/obj/Debug/netcoreapp2.2/LamdaExpressions.AssemblyInfo.cs
+/Users/jin/Desktop/csye6230-OS/Course Documents/Notes/Class/LamdaExpressions/obj/Debug/netcoreapp2.2/LamdaExpressions.dll
+/Users/jin/Desktop/csye6230-OS/Course Documents/Notes/Class/LamdaExpressions/obj/Debug/netcoreapp2.2/LamdaExpressions.pdb
