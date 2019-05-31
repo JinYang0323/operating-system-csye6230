@@ -1,0 +1,11 @@
+/Users/jin/Desktop/csye6230-OS/Course Documents/Test/bin/Debug/netcoreapp2.2/Test.deps.json
+/Users/jin/Desktop/csye6230-OS/Course Documents/Test/bin/Debug/netcoreapp2.2/Test.runtimeconfig.json
+/Users/jin/Desktop/csye6230-OS/Course Documents/Test/bin/Debug/netcoreapp2.2/Test.runtimeconfig.dev.json
+/Users/jin/Desktop/csye6230-OS/Course Documents/Test/bin/Debug/netcoreapp2.2/Test.dll
+/Users/jin/Desktop/csye6230-OS/Course Documents/Test/bin/Debug/netcoreapp2.2/Test.pdb
+/Users/jin/Desktop/csye6230-OS/Course Documents/Test/obj/Debug/netcoreapp2.2/Test.csprojAssemblyReference.cache
+/Users/jin/Desktop/csye6230-OS/Course Documents/Test/obj/Debug/netcoreapp2.2/Test.csproj.CoreCompileInputs.cache
+/Users/jin/Desktop/csye6230-OS/Course Documents/Test/obj/Debug/netcoreapp2.2/Test.AssemblyInfoInputs.cache
+/Users/jin/Desktop/csye6230-OS/Course Documents/Test/obj/Debug/netcoreapp2.2/Test.AssemblyInfo.cs
+/Users/jin/Desktop/csye6230-OS/Course Documents/Test/obj/Debug/netcoreapp2.2/Test.dll
+/Users/jin/Desktop/csye6230-OS/Course Documents/Test/obj/Debug/netcoreapp2.2/Test.pdb
